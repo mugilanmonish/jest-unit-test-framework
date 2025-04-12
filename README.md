@@ -1,4 +1,4 @@
-# 🧪 Unit Testing - [Subproject Name]
+# 🧪 Unit Testing - [Liminal-Test]
 
 This subproject contains unit tests for the `node-api `, written using [Jest](https://jestjs.io/).  
 It verifies the correctness of individual functions and modules.
